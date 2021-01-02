@@ -4,7 +4,7 @@ let siteArray = [{
         name: "Black Heritage Trail of New Hampshire office",
         address: "222 Court Street",
         latitude: 43.07522,
-        longitude: -70.7571,
+        longitude: -70.75676,
         comment: "",
         descriptivePlaque: false,
         orginalExists: true,
